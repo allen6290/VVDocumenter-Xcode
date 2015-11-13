@@ -26,6 +26,12 @@
 
 #import <Foundation/Foundation.h>
 
+
+/**
+ *  @author hu.tang, 15-11-14 00:11:42
+ *
+ *  <#Description#>
+ */
 @interface VVDocumenterManager : NSObject
 
 @end
